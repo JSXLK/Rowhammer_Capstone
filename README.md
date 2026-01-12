@@ -11,3 +11,18 @@ Design and evaluate modified DRAM architectures that remove the underlying physi
 
 ### 3. Theorize a Scalable Real‑World Application
 Extend the redesigned, Rowhammer‑resistant architecture into a real‑world deployment context, analyzing how such a design could be implemented at scale in modern memory systems. This includes theorizing its applicability to data centers, high‑assurance systems, and safety‑critical hardware, while assessing trade‑offs in performance, power consumption, cost, and manufacturability.
+
+## Current Status
+- Repository initialized.
+
+## Roadmap (subject to change)
+- Phase 1: Background research on DRAM and Rowhammer.
+- Phase 2: Develop a physical-level Rowhammer simulation.
+- Phase 3: Design and test preventive architectures.
+- Phase 4: Evaluate scalability and real-world feasibility.
+
+## References
+- To be added.
+
+## References
+- To be added.
