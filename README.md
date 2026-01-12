@@ -1,8 +1,8 @@
-## Rowhammer_Capstone
+# Rowhammer_Capstone
 Simulate Rowhammer attacks at the physical level and redesign DRAM architecture to eliminate the vulnerability, exploring prevention and scalable real-world applications.
 
 
-# Main Goals of the Capstone Project
+## Main Goals of the Capstone Project
 ### 1. Simulate a Rowhammer Attack at the Physical Level
 Develop a technically grounded simulation that models the physical behavior of DRAM, including charge storage, leakage, and inter‑row coupling, in order to demonstrate how repeated activation of aggressor rows can induce bit flips in adjacent victim rows. The simulation will reproduce Rowhammer as a hardware‑originating fault mechanism, independent of software vulnerabilities, and will serve as a baseline for evaluating defensive designs.
 
