@@ -24,5 +24,3 @@ Extend the redesigned, Rowhammer‑resistant architecture into a real‑world de
 ## References
 - To be added.
 
-## References
-- To be added.
