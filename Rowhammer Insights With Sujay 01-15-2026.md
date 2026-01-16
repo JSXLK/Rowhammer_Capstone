@@ -1,4 +1,4 @@
-#Short interview with Sujay Yadalam Sudarshan. 01-15-2026(raw notes)
+# Short interview with Sujay Yadalam Sudarshan. 01-15-2026(raw notes)
 
 Previous researcher at Microsoft. Rowhammer attacks at the architectural level. PhD in Computer Science at University of Wisconsin-Madison. 
 
